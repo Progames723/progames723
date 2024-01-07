@@ -14,9 +14,6 @@ My github stats lol:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progames723&show_icons=true&locale=en" alt="progames723" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progames723&show_icons=true&locale=en&layout=compact" alt="progames723" /></p>
 
-TODO:
-- [ ] Make this thing better
-
 <!--
 **Progames723/progames723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+TODO:
+- [x] Make this thing better
+- [ ] Make this thing better after making it better
