@@ -10,6 +10,10 @@
 - Pronouns: he/him(i dont understand this pronuns thing but i'll leave mine here)
 - Fun fact: I have a youtube channel but i don't upload there(almost), i mainly stream(in russian ofc) gd and minecraft.
 
+TODO:
+- [x] Make this thing better
+- [ ] Make this thing better after making it better
+
 My github stats lol:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progames723&show_icons=true&locale=en" alt="progames723" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progames723&show_icons=true&locale=en&layout=compact" alt="progames723" /></p>
@@ -28,8 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-TODO:
-- [x] Make this thing better
-- [ ] Make this thing better after making it better
