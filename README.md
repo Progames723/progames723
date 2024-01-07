@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Vladimir(Владимир) a minecraft mod developer from Russia and i did this thing for no reasonwhatsoever
+### I'm Vladimir(Владимир) a minecraft mod developer from Russia and i did this thing for no reason whatsoever
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progames723&label=Profile%20views&color=0e75b6&style=flat" alt="progames723" /> </p>
 
